@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: Please cite the following works when using this software.
+type: software
+authors:
+  - family-names: Frisch
+    given-names: Daniel
+identifiers:
+  - type: url
+    value: https://github.com/KIT-ISAS/MFI2025_MLAT-TOA
+title: MLAT-TOA
+url: https://github.com/KIT-ISAS/MFI2025_MLAT-TOA
+preferred-citation:
+  authors:
+    - family-names: Frisch
+      given-names: Daniel
+    - family-names: Hanebeck
+      given-names: Uwe D.
+  title: Why You Shouldn't Use TDOA for Multilateration
+  date-published: 2025-09-01
+  year: 2025
+  month: 9
+  journal: Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025)
+  publisher:
+    country: Texas
+    city: College Station
+  type: conference-paper
